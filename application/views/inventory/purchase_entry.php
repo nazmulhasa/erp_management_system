@@ -191,7 +191,7 @@
                 <thead style = "background: #b3d9ff" >
                     <tr>
                         <th>Item Code</th>
-                        <th>Item Name</th>
+                        <th>product Name</th>
                         <th>Quantity</th>
                         <th>Sales Price</th>
                         <th>Total Price</th>
