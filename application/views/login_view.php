@@ -46,7 +46,7 @@
 
         <div class="container">
             <div class="omb_login">
-                <h3 class="omb_authTitle">Login / <a href="<?php echo base_url(); ?>signup_control/">Sign up</a></h3>
+                <h3 class="omb_authTitle">Login or <a href="<?php echo base_url(); ?>signup_control/">Sign up</a></h3>
 
 
                 <div class="row omb_row-sm-offset-3 omb_loginOr">
