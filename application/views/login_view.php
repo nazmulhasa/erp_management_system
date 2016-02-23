@@ -1,7 +1,7 @@
 <?php echo doctype('html5'); ?>
 <html lang="en-US">
     <head>
-        <title>login please</title>
+        <title>login</title>
 
         <meta charset="UTF-8">
         <link rel="stylesheet" href="<?php echo base_url(); ?>asset/dist/css/AdminLTE.min.css">
